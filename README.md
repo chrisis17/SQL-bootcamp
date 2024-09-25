@@ -3,6 +3,8 @@
 Este repositorio muestra el contexto del problema y los agentes que intervienen en la venta de Amazon online.
 También guarda los scripts necesarios para la creación de tablas relacionales, inserción de datos y querys de ejemplo.
 
+<span>![</span><span> Tablas generadas en SQL Server</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/chrisis17/SQL-bootcamp/main/imgs/tables.jpg</span><span>)</span>
+
 ## Contexto:
 Tu empresa ha sido contratada para implementar una base de datos que gestiones las ventas en Amazon, de acuerdo a los siguientes lineamientos.
 
